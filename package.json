@@ -1,4 +1,7 @@
 {
+  "name": "hairday",
+  "description": "Aplicação Web para agendamento de corte de cabelo.",
+  "author": "Rodrigo Gonçalves - Rocketseat",
   "scripts": {
     "server": "json-server --watch server.json --port 3333"
   },
